@@ -1,0 +1,13 @@
+examples:
+dashboardUsersListButton = [cypressid=dashboard-button-users]
+dashboard-button-users = [cypressid="dashboard-button-users"]
+
+
+
+InviteUserButton = [cypressid="dashboard-button-invite"]
+InviteUserEmail = [id="mat-input-5"]
+SelectRoleDropDownMenu = [class="mat-select-trigger ng-tns-c67-295"]
+InviteNewUsserButton = [class="class="users-form__button"]
+ThreeDotsMenuDropDown = [class="mat-menu-trigger list-table__button"]
+ReInviteUser = [class="mat-focus-indicator mat-menu-item ng-tns-c35-8"]
+logOutButton = [type="button"] there is no id 

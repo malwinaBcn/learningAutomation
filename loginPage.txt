@@ -1,0 +1,9 @@
+
+page Object 
+HTML ELEMENTS
+===========
+TitleDescription = [class="textDescription-customizable"]
+userName = [id="signInFormUsername"]        [class="form-controlsignInFormUsernamee"]
+userPassword = [id="signInFormPassword"]
+forgotYourPasswordButton = [id="redirect-customizable"]
+signInButton = [id="signInSubmitButton"]
